@@ -12,11 +12,11 @@
 <br>
 
 <p align="center">
-  <img alt="Projeto Weather app" src="src/images/Tela02.png" width="75%">
+  <img alt="Projeto Weather app" src="src/images/Tela02.png" width="65%">
 </p>
 
 <p align="center">
-  <img alt="Projeto Weather app" src="src/images/tela.png" width="75%">
+  <img alt="Projeto Weather app" src="src/images/tela.png" width="65%">
 </p>
 
 ## 🚀Tecnologias
